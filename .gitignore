@@ -1,0 +1,11 @@
+**/.vs
+**/bin
+**/App_Data
+**/packages
+**/obj
+**/*.user
+**/Logs/*
+*.env
+**/*.log
+*.bak
+**/storage
